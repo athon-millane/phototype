@@ -1,0 +1,78 @@
+{
+    "genetic_questions": {
+        "What are the colour of your eyes?": [
+            "Light blue or green, grey",
+            "Blue, green, grey",
+            "Dark blue or green, light brown (hazel)",
+            "Dark brown",
+            "Brownish black"
+        ],
+        "What is the colour of your hair (naturally and before aging)?": [
+            "Red",
+            "Blonde",
+            "Chestnut or dark blonde",
+            "Dark brown",
+            "Black"
+        ],
+        "What is the colour of your skin (unexposed areas)?": [
+            "Pink",
+            "Very pale",
+            "Light brown or olive",
+            "Brown",
+            "Dark brown"
+        ],
+        "Do you have freckles on unexposed areas?": [
+            "Many",
+            "Several",
+            "Few",
+            "Rare",
+            "None"
+        ]
+    },
+    "sensitivity_questions": {
+        "What happens to your skin if you stay in the sun for an extended period?": [
+            "Severe burns, blistering, peeling",
+            "Moderate burns, blistering, peeling",
+            "Burns sometimes followed by peeling",
+            "Rare burns",
+            "No burns"
+        ],
+        "Do you turn brown after sun exposure?": [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Often",
+            "Always"
+        ],
+        "How brown do you get?": [
+            "Hardly or not at all",
+            "Light tan",
+            "Medium tan",
+            "Dark tan",
+            "Very dark"
+        ],
+        "Is your face sensitive to the sun?": [
+            "Very sensitive",
+            "Sensitive",
+            "Mildly sensitive",
+            "Resistant",
+            "Very resistant"
+        ]
+    },
+    "exposure_questions": {
+        "How often to you tan?": [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Often",
+            "Always"
+        ],
+        "When did you last expose your skin to the sun or artificial tanning sources (tanning beds)?": [
+            "More than three months ago",
+            "In the last 2–3 months",
+            "In the last 1–2 months",
+            "In the last week",
+            "In the last day"
+        ]
+    }
+}
